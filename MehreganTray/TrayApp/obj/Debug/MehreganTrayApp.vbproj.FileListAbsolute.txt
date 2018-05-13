@@ -1,0 +1,12 @@
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Debug\TrayApp.Resources.resources
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Debug\TrayApp.exe
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Debug\TrayApp.xml
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Debug\TrayApp.pdb
+D:\Programming\Mehregan\MehreganTray\TrayApp\bin\Debug\TrayApp.exe.config
+D:\Programming\Mehregan\MehreganTray\TrayApp\bin\Debug\TrayApp.exe
+D:\Programming\Mehregan\MehreganTray\TrayApp\bin\Debug\TrayApp.pdb
+D:\Programming\Mehregan\MehreganTray\TrayApp\bin\Debug\TrayApp.xml
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Debug\TrayApp.frmSentLog.resources

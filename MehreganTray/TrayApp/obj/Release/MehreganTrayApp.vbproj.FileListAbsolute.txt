@@ -1,0 +1,14 @@
+D:\Programming\Mehregan\MehreganTray\TrayApp\bin\Release\TrayApp.exe.config
+D:\Programming\Mehregan\MehreganTray\TrayApp\bin\Release\TrayApp.exe
+D:\Programming\Mehregan\MehreganTray\TrayApp\bin\Release\TrayApp.XmlSerializers.dll
+D:\Programming\Mehregan\MehreganTray\TrayApp\bin\Release\TrayApp.pdb
+D:\Programming\Mehregan\MehreganTray\TrayApp\bin\Release\TrayApp.xml
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Release\ResolveAssemblyReference.cache
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Release\TrayApp.frmSentLog.resources
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Release\TrayApp.Resources.resources
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Release\TrayApp.exe
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Release\TrayApp.xml
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Release\TrayApp.pdb
+D:\Programming\Mehregan\MehreganTray\TrayApp\obj\Release\TrayApp.XmlSerializers.dll
